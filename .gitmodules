@@ -82,3 +82,117 @@
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://codeberg.org/tenplus1/mobs_redo.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/mightyjoe781/wiki
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2.git
+[submodule "stamina"]
+	path = stamina
+	url = https://github.com/minetest-mods/stamina.git
+[submodule "smartshop"]
+	path = smartshop
+	url = https://github.com/pandorabox-io/smartshop.git
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/SwissalpS/replacer.git
+[submodule "pvp_areas"]
+	path = pvp_areas
+	url = https://github.com/everamzah/pvp_areas.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "placeholder"]
+	path = placeholder
+	url = https://github.com/BuckarooBanzay/placeholder.git
+[submodule "pick_axe_tweaks"]
+	path = pick_axe_tweaks
+	url = https://github.com/mt-mods/pick_axe_tweaks.git
+[submodule "omnidriver"]
+	path = omnidriver
+	url = https://github.com/OgelGames/omnidriver.git
+[submodule "obsidianstuff"]
+	path = obsidianstuff
+	url = https://github.com/OgelGames/obsidianstuff.git
+[submodule "multitools"]
+	path = multitools
+	url = https://github.com/ChimneySwift/multitools.git
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights.git
+[submodule "moretrees"]
+	path = moretrees
+	url = https://github.com/mt-mods/moretrees.git
+[submodule "more_chests"]
+	path = more_chests
+	url = https://github.com/minetest-mods/more_chests.git
+[submodule "loot"]
+	path = loot
+	url = https://github.com/minetest-mods/loot.git
+[submodule "lavastuff"]
+	path = lavastuff
+	url = https://github.com/minetest-mods/lavastuff.git
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "mesecons_debug"]
+	path = mesecons_debug
+	url = https://github.com/minetest-monitoring/mesecons_debug.git
+[submodule "mesecons_protected_button"]
+	path = mesecons_protected_button
+	url = https://github.com/pandorabox-io/mesecons_protected_button.git
+[submodule "mesecons_protected_switch"]
+	path = mesecons_protected_switch
+	url = https://github.com/pandorabox-io/mesecons_protected_switch.git
+[submodule "mesecons_ratelimiter"]
+	path = mesecons_ratelimiter
+	url = https://github.com/minetest-monitoring/mesecons_ratelimiter.git
+[submodule "geoip"]
+	path = geoip
+	url = https://github.com/mt-mods/geoip.git
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://github.com/mt-mods/homedecor_modpack.git
+[submodule "ehlphabet"]
+	path = ehlphabet
+	url = https://github.com/mt-mods/ehlphabet.git
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/pyrollo/display_modpack.git
+[submodule "digistuff"]
+	path = digistuff
+	url = https://github.com/mt-mods/digistuff.git
+[submodule "christmas"]
+	path = christmas
+	url = https://github.com/mt-mods/christmas.git
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://github.com/minetest-mirrors/bonemeal.git
+[submodule "biome_lib"]
+	path = biome_lib
+	url = https://github.com/mt-mods/biome_lib.git
+[submodule "beacon"]
+	path = beacon
+	url = https://github.com/OgelGames/beacon.git
+[submodule "bakedclay"]
+	path = bakedclay
+	url = https://github.com/minetest-mirrors/bakedclay.git
+[submodule "unified_inventory_plus"]
+	path = unified_inventory_plus
+	url = https://github.com/mt-mods/unified_inventory_plus.git
+[submodule "xp_redo"]
+	path = xp_redo
+	url = https://github.com/mt-mods/xp_redo.git
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet.git
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://github.com/mt-mods/signs_lib.git
