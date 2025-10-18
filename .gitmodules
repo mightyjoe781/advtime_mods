@@ -184,9 +184,6 @@
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/mt-mods/unified_inventory_plus.git
-[submodule "xp_redo"]
-	path = xp_redo
-	url = https://github.com/mt-mods/xp_redo.git
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet.git
@@ -196,3 +193,18 @@
 [submodule "signs_lib"]
 	path = signs_lib
 	url = https://github.com/mt-mods/signs_lib.git
+[submodule "xcompat"]
+	path = xcompat
+	url = https://github.com/mt-mods/xcompat.git
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://github.com/mt-mods/basic_materials.git
+[submodule "fakelib"]
+	path = fakelib
+	url = https://github.com/OgelGames/fakelib.git
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines.git
+[submodule "minetest-invhack"]
+	path = minetest-invhack
+	url = https://github.com/salahzar/minetest-invhack
