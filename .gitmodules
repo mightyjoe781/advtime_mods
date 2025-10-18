@@ -1,0 +1,3 @@
+[submodule "smk_custom"]
+	path = smk_custom
+	url = git@github.com:mightyjoe781/smk_custom.git
