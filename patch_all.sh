@@ -1,17 +1,21 @@
 #!/bin/bash
+set -e
 
-# Loop through all patch files in .patches
-for patch in .patches/*.patch; do
-  # Extract submodule name from patch filename if needed
-  # For simplicity, assume patches are named after submodules, e.g., a.patch, b.patch
+PATCH_DIR="$(pwd)/.patches"
+
+for patch in "$PATCH_DIR"/*.patch; do
   submodule_name=$(basename "$patch" .patch)
 
-  # Navigate to submodule directory
-  cd "$submodule_name" || continue
+  # Ensure submodule directory exists
+  if [ ! -d "$submodule_name" ]; then
+    echo "Skipping $submodule_name — directory not found."
+    continue
+  fi
 
-  # Apply patch
-  git apply "../../.patches/$submodule_name.patch"
+  echo "Applying patch to $submodule_name..."
 
-  # Return to root directory
-  cd -
+  (
+    cd "$submodule_name"
+    git apply "$patch"
+  )
 done
