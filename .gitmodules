@@ -235,3 +235,6 @@
 [submodule "rangedweapons_expanded"]
 	path = rangedweapons_expanded
 	url = https://github.com/plus-22/rangedweapons_expanded.git
+[submodule "stalker"]
+	path = stalker
+	url = https://github.com/plus-22/stalker.git
