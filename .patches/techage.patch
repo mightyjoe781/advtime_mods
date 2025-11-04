@@ -1,0 +1,13 @@
+diff --git a/techage/init.lua b/techage/init.lua
+index 19c5140..870e95b 100644
+--- a/techage/init.lua
++++ b/techage/init.lua
+@@ -201,7 +201,7 @@ dofile(MP.."/basic_machines/recycler.lua")
+ dofile(MP.."/basic_machines/concentrator.lua")
+ dofile(MP.."/basic_machines/recipeblock.lua")
+ dofile(MP.."/basic_machines/ta5_chest.lua")
+-dofile(MP.."/basic_machines/waterremover.lua")
++-- dofile(MP.."/basic_machines/waterremover.lua")
+ 
+ -- Liquids II
+ dofile(MP.."/liquids/tank.lua")
