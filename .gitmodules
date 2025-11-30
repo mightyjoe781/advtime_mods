@@ -235,3 +235,6 @@
 [submodule "stalker"]
 	path = stalker
 	url = https://github.com/plus-22/stalker.git
+[submodule "ghoti_coin"]
+	path = ghoti_coin
+	url = https://github.com/mightyjoe781/ghoti_coin.git
