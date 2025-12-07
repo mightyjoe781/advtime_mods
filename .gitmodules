@@ -238,3 +238,6 @@
 [submodule "ghoti_coin"]
 	path = ghoti_coin
 	url = https://github.com/mightyjoe781/ghoti_coin.git
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers.git
