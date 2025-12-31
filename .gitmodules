@@ -241,3 +241,6 @@
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers.git
+[submodule "techage"]
+	path = techage
+	url = https://github.com/joe7575/techage.git
