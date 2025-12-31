@@ -1,13 +1,18 @@
-diff --git a/techage/init.lua b/techage/init.lua
-index 19c5140..870e95b 100644
---- a/techage/init.lua
-+++ b/techage/init.lua
-@@ -201,7 +201,7 @@ dofile(MP.."/basic_machines/recycler.lua")
- dofile(MP.."/basic_machines/concentrator.lua")
- dofile(MP.."/basic_machines/recipeblock.lua")
- dofile(MP.."/basic_machines/ta5_chest.lua")
--dofile(MP.."/basic_machines/waterremover.lua")
-+-- dofile(MP.."/basic_machines/waterremover.lua")
+diff --git a/init.lua b/init.lua
+index 43e7603..5e2bc6a 100644
+--- a/init.lua
++++ b/init.lua
+@@ -313,10 +313,10 @@ dofile(MP.."/move_controller/gateblock.lua")
+ dofile(MP.."/move_controller/doorblock.lua")
+ dofile(MP.."/move_controller/doorcontroller.lua")  -- old
+ dofile(MP.."/move_controller/doorcontroller2.lua")  -- new
+-dofile(MP.."/move_controller/movecontroller.lua")  -- old
++-- dofile(MP.."/move_controller/movecontroller.lua")  -- old
+ dofile(MP.."/move_controller/movecontroller2.lua")  -- new
+-dofile(MP.."/move_controller/turncontroller.lua")
+-dofile(MP.."/move_controller/flycontroller.lua")
++-- dofile(MP.."/move_controller/turncontroller.lua")
++-- dofile(MP.."/move_controller/flycontroller.lua")
+ dofile(MP.."/move_controller/soundblock.lua")
  
- -- Liquids II
- dofile(MP.."/liquids/tank.lua")
+ 

@@ -244,3 +244,9 @@
 [submodule "techage"]
 	path = techage
 	url = https://github.com/joe7575/techage.git
+[submodule "lcdlib"]
+	path = lcdlib
+	url = https://github.com/joe7575/lcdlib
+[submodule "safer_lua"]
+	path = safer_lua
+	url = https://github.com/joe7575/safer_lua.git
