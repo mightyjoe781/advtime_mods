@@ -1,5 +1,5 @@
 diff --git a/init.lua b/init.lua
-index 43e7603..5e2bc6a 100644
+index 43e7603..ce61c54 100644
 --- a/init.lua
 +++ b/init.lua
 @@ -313,10 +313,10 @@ dofile(MP.."/move_controller/gateblock.lua")
@@ -7,10 +7,11 @@ index 43e7603..5e2bc6a 100644
  dofile(MP.."/move_controller/doorcontroller.lua")  -- old
  dofile(MP.."/move_controller/doorcontroller2.lua")  -- new
 -dofile(MP.."/move_controller/movecontroller.lua")  -- old
-+-- dofile(MP.."/move_controller/movecontroller.lua")  -- old
- dofile(MP.."/move_controller/movecontroller2.lua")  -- new
+-dofile(MP.."/move_controller/movecontroller2.lua")  -- new
 -dofile(MP.."/move_controller/turncontroller.lua")
 -dofile(MP.."/move_controller/flycontroller.lua")
++-- dofile(MP.."/move_controller/movecontroller.lua")  -- old
++-- dofile(MP.."/move_controller/movecontroller2.lua")  -- new
 +-- dofile(MP.."/move_controller/turncontroller.lua")
 +-- dofile(MP.."/move_controller/flycontroller.lua")
  dofile(MP.."/move_controller/soundblock.lua")
