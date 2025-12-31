@@ -17,3 +17,33 @@ index 43e7603..ce61c54 100644
  dofile(MP.."/move_controller/soundblock.lua")
  
  
+diff --git a/teleport/teleport_pipe.lua b/teleport/teleport_pipe.lua
+index f689008..90ff3bd 100644
+--- a/teleport/teleport_pipe.lua
++++ b/teleport/teleport_pipe.lua
+@@ -28,8 +28,8 @@ local STANDBY_TICKS = 4
+ local COUNTDOWN_TICKS = 4
+ local CYCLE_TIME = 2
+ local PWR_NEEDED = 12
+-local EX_POINTS = 30
+-local MAX_DIST = 500
++local EX_POINTS = 60
++local MAX_DIST = 60000
+ local DESCRIPTION = S("TA5 Teleport Block Liquids")
+ 
+ local function formspec(self, pos, nvm)
+diff --git a/teleport/teleport_tube.lua b/teleport/teleport_tube.lua
+index 35d8890..a414b0e 100644
+--- a/teleport/teleport_tube.lua
++++ b/teleport/teleport_tube.lua
+@@ -27,8 +27,8 @@ local STANDBY_TICKS = 4
+ local COUNTDOWN_TICKS = 4
+ local CYCLE_TIME = 2
+ local PWR_NEEDED = 12
+-local EX_POINTS = 30
+-local MAX_DIST = 500
++local EX_POINTS = 60
++local MAX_DIST = 60000
+ local DESCRIPTION = S("TA5 Teleport Block Items")
+ 
+ local function formspec(self, pos, nvm)

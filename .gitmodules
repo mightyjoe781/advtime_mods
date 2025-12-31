@@ -250,3 +250,9 @@
 [submodule "safer_lua"]
 	path = safer_lua
 	url = https://github.com/joe7575/safer_lua.git
+[submodule "cblocks"]
+	path = cblocks
+	url = https://codeberg.org/tenplus1/cblocks.git
+[submodule "mobs_water"]
+	path = mobs_water
+	url = https://codeberg.org/tenplus1/mobs_water.git
